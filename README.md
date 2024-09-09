@@ -77,11 +77,41 @@ to as "legroom" throughout the rest of the instructions.
 
 ## Ordering the parts from SendCutSend
 
-TODO
+Download the ZIP file for the desired "legroom" and unzip it.
+
+Go to https://sendcutsend.com/ (SCS) and create an account.
+
+Upload each `.eps` file from the unzipped folder int SCS one by one, performing the following steps:
+
+### Door side and transmission side L brackets
+* Confirm "Inches" as measurement units (I don't know why SCS thinks it's inches as I made the design in mm, but whatever).
+* Use "Metals > Steel > A36/1008 Mild steel > **3** mm CRS".
+* On the "Add services" page, set both bends to 90 degrees.\
+  TODO: add images showing how brackets should look.
+* On the "Add finishing" page, choose "Gloss black".
+
+### Floor bracket
+* Use "Metals > Steel > A36/1008 Mild steel > **3.4** mm CRS".
+* On the "Add services" page, make
+  * the two bends at the front of the bracket **down** 5 degrees,
+  * the bend at the top of the seatbelt tab 35 degrees up,
+  * and at the bottom of the seatbelt tab 55 degrees up.\
+  TODO: add images showing how the bracket should look.
+* On the "Add finishing" page, choose "Gloss black" (send me photos if you decide to add a splash of color!)
+
+### Seatbelt bolt sleeve
+* Use "Metals > Steel > 4130 Chromoly > 4.8 mm".
+* No services, no finishing.
 
 ## Additional hardware
 
-TODO
+You will need:
+
+* 8x Class 10.9 M10x1.25 _flange_ bolts, 25 mm thread length.
+* 5x Class 10.9 M10x1.25 _flange_ nuts.
+* 1x Grade 8 7/16”-20 bolt, 3/4" thread length.
+
+I got all of these at a local ACE Hardware store.
 
 ## Installation instructions
 
