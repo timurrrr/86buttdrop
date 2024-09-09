@@ -131,7 +131,7 @@ You will need:
 * 5x Class 10.9 M10x1.25 _flange_ nuts.
 * 1x Grade 8 7/16"-20 bolt, 3/4" thread length.
 
-I got all of these at a local ACE Hardware store.
+I got all of these at a local ACE Hardware store for ~$50.
 
 ## Installation instructions
 
