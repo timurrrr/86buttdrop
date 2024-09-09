@@ -54,12 +54,27 @@ on the amount of legroom you need. The seat will retain the height adjustment me
 seat a bit forward as it raises it, so if you share the car with someone within an inch or two from you,
 you might be able to adjust the legroom down a bit for the shorter person.
 
-TODO: Add instructions on how to choose the right parts.
+To figure out which kit you need, set up the seat as you normally drive, then use
+a millimeter tape measure or a ruler, and measure how much space there is
+between the the front of the stock slider and the front edge of the stock rail
+on the door side of the seat. See picture:
+
+![Measuring the desired legroom](images/measuring_legroom.png)
+
+Double-check that you're measuring the right thing, as sometimes the level for
+the sliders gets in the way of the L-shaped end of the tape measure. The factory
+rail moves in 10 mm steps, so you should get something like 50 mm, 60 mm, 70 mm,
+80 mm, 90 mm or 100 mm (max). This measurement is the number I'm going to refer
+to as "legroom parameter" throughout the rest of the instructions.
 
 ## Ordering the parts from SendCutSend
 
 TODO
 
 ## Installation instructions
+
+TODO
+
+## FAQ
 
 TODO
