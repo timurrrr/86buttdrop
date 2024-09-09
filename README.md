@@ -71,7 +71,7 @@ to as "legroom" throughout the rest of the instructions.
 ----------------- | ------------- | -----
 30-60 | TBD | Not tested yet, but should be doable
 70 | TBD | Verified, not published yet
-80 | [Download](kits/86buttdrop_80.zip) | Verified
+80 | [Download](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | Verified
 90 | --- | Will not be offered due to challenging geometry. Use 80 or 100 instead.
 100 | TBD | Work in progress
 
