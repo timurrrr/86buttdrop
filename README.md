@@ -212,9 +212,16 @@ I'm a 6'4" guy who regularly goes to track days in my GR86 and I didn't have eno
 My neck and upper back were always sore the next day after a track day, and thanks to the extra headroom I no
 longer need to suffer as much.
 
+### How much does it cost?
+
+You should expect ~$200 for parts from SCS, and ~$50 for quality hardware from your nearby hardware store.\
+This is comparable to the price of a seat bracket for a bucket seat WITHOUT the bucket seat!
+
+Consider [donating](#support-the-project) to help me offset the R&D costs for this project.
+
 ### Was this crash tested?
 
-NO! See the [License](#License) section above.
+NO! See the [License](#license) section above.
 
 ### Does it retain the factory side airbag.
 
