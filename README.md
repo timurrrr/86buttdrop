@@ -86,18 +86,28 @@ Upload each `.eps` file from the unzipped folder int SCS one by one, performing 
 ### Door side and transmission side L brackets
 * Confirm "Inches" as measurement units (I don't know why SCS thinks it's inches as I made the design in mm, but whatever).
 * Use "Metals > Steel > A36/1008 Mild steel > **3** mm CRS".
-* On the "Add services" page, set both bends to 90 degrees.\
-  TODO: add images showing how brackets should look.
+* On the "Add services" page, set both bends to 90 degrees **up**.
 * On the "Add finishing" page, choose "Gloss black".
+
+Here's how the parts should look like in the 3D preview mode:\
+(the exact geometry will depend on which "legroom" you chose)
+
+![Door side bracket](images/door_side_L_bracket_preview.png)
+![Transmission side bracket](images/transmission_side_L_bracket_preview.png)
 
 ### Floor bracket
 * Use "Metals > Steel > A36/1008 Mild steel > **3.4** mm CRS".
 * On the "Add services" page, make
-  * the two bends at the front of the bracket **down** 5 degrees,
-  * the bend at the top of the seatbelt tab 35 degrees up,
-  * and at the bottom of the seatbelt tab 55 degrees up.\
-  TODO: add images showing how the bracket should look.
+  * the two bends at the front of the bracket **5** degrees **down**,
+  * the bend at the top of the seatbelt tab **35** degrees **up**,
+  * and at the bottom of the seatbelt tab **55** degrees **up**.
 * On the "Add finishing" page, choose "Gloss black" (send me photos if you decide to add a splash of color!)
+
+Here's how the part should look like in the 3D preview mode:\
+(the exact geometry will depend on which "legroom" you chose)
+
+![Floor bracket, side view](images/floor_bracket_preview_side.png)
+![Floor bracket, back view](images/floor_bracket_preview_back.png)
 
 ### Seatbelt bolt sleeve
 * Use "Metals > Steel > 4130 Chromoly > 4.8 mm".
