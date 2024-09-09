@@ -2,19 +2,19 @@
 
 86BUTTDROP is my attempt at gaining headroom on the "gen2" Subaru BRZ and Toyota GR86 cars by lowering the stock seat.
 
-After multiple iterations, I settled on a design that lowers the seat by about 18 mm, which provides a very noticable increase in headroom.
-It might be possible to modify the parts to lower the seat a bit further, but will require cutting OEM parts, so I've decided to not do it for now.
+After multiple iterations, I settled on a design that lowers the seat by about 18 mm, which provides a very
+noticable increase in headroom. It might be possible to modify the parts to lower the seat a bit further,
+but will require cutting OEM parts, so I've decided to not do it for now.
 
 Here's how the seat looks like with the kit installed:
 
 ![Assembled view](images/seat_front.png)
 
-Here's how much lower than stock the seat goes. In this GIF, the light from a
-flashlight positioned behind the seat is obstructed by the plastic panel on the
-side of the seat, which normally sits 19+ mm above the floor. Note that this GIF
-was recorded with an earlier prototype that had 2 mm more lowering, I decided to
-raise the seat by 2 mm to avoid contact between the plastic panel and the floor
-that could cause squeaks.
+Here's how low the seat goes with this kit. In this GIF, the light from a flashlight positioned
+behind the seat is obstructed by the plastic panel on the side of the seat, which normally sits 19+ mm
+above the floor. Note that this GIF was recorded with an earlier prototype that had ~20 mm lowering;
+I have decided to reduce the amount of lowering by 2 mm to avoid contact between the plastic panel
+and the floor that could cause squeaks.
 
 ![Lowering demo](images/gap_under_height_adjustment_lever.gif)
 
@@ -29,7 +29,8 @@ To view a copy of this license, visit https://creativecommons.org/publicdomain/z
 In particular, I'd like to call out that I make no warranties about the work, and disclaim liability for
 all uses of the work, to the fullest extent permitted by applicable law.\
 **I'm not a mechanical engineer, I'm practically just a random dude on the internet. While I tried my best,
-I can't make any promises about the safety/strength/etc. of this design. Use at your own risk!**
+I can't make any promises about the safety/strength/etc. of this design. No crash testing or finite element
+analysis has been performed for this kit. Use at your own risk!**
 
 ## Support the project
 
