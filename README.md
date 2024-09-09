@@ -105,6 +105,9 @@ Here's how the parts should look like in the 3D preview mode:\
   * the two bends at the front of the bracket **5** degrees **DOWN**,
   * the bend at the top of the seatbelt tab **35** degrees **UP**,
   * and at the bottom of the seatbelt tab **55** degrees **UP**.
+  * Tip: when you choose which bend line to enter the degrees for, it should
+    highlight the bend in the 2D/3D preview.
+  * ![How much to bend each bend](images/floor_bracket_bends.png)
 * On the "Add finishing" page, choose "Powder coating > Matte black" (send me photos if you decide to add a splash of color!)
 
 Here's how the part should look like in the 3D preview mode:\
