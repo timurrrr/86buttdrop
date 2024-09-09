@@ -5,7 +5,18 @@
 After multiple iterations, I settled on a design that lowers the seat by about 18 mm, which provides a very noticable increase in headroom.
 It might be possible to modify the parts to lower the seat a bit further, but will require cutting OEM parts, so I've decided to not do it for now.
 
-TODO: add an overview photo.
+Here's how the seat looks like with the kit installed:
+
+![Assembled view](images/seat_front.png)
+
+Here's how much lower than stock the seat goes. In this GIF, the light from a
+flashlight positioned behind the seat is obstructed by the plastic panel on the
+side of the seat, which normally sits 19+ mm above the floor. Note that this GIF
+was recorded with an earlier prototype that had 2 mm more lowering, I decided to
+raise the seat by 2 mm to avoid contact between the plastic panel and the floor
+that could cause squeaks.
+
+![Lowering demo](images/gap_under_height_adjustment_lever.gif)
 
 ## License
 
