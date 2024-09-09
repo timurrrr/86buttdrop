@@ -65,9 +65,21 @@ Double-check that you're measuring the right thing, as sometimes the level for
 the sliders gets in the way of the L-shaped end of the tape measure. The factory
 rail moves in 10 mm steps, so you should get something like 50 mm, 60 mm, 70 mm,
 80 mm, 90 mm or 100 mm (max). This measurement is the number I'm going to refer
-to as "legroom parameter" throughout the rest of the instructions.
+to as "legroom" throughout the rest of the instructions.
+
+"Legroom", mm | Links | Notes
+----------------- | ------------- | -----
+30-60 | TBD | Not tested yet, but should be doable
+70 | TBD | Verified, not published yet
+80 | [Download](kits/86buttdrop_80.zip) | Verified
+90 | --- | Will not be offered due to challenging geometry. Use 80 or 100 instead.
+100 | TBD | Work in progress
 
 ## Ordering the parts from SendCutSend
+
+TODO
+
+## Additional hardware
 
 TODO
 
