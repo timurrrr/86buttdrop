@@ -32,6 +32,10 @@ all uses of the work, to the fullest extent permitted by applicable law.\
 I can't make any promises about the safety/strength/etc. of this design. No crash testing or finite element
 analysis has been performed for this kit. Use at your own risk!**
 
+That being said, if you get in an accident with this kit installed in the car, I'd really appreciate it
+if you [share](https://github.com/timurrrr/86buttdrop/issues/new) the resuls with the community,
+such as whether any parts or hardware fail, if the side airbag deploys, etc.
+
 ## Support the project
 
 I've spent over $750 on multiple iterations of prototype parts, and countless hours pulling the seat out,
@@ -199,4 +203,42 @@ Step by step instruction:
 
 ## FAQ
 
-TODO
+### Why did you make this?
+
+I'm a 6'4" guy who regularly goes to track days in my GR86 and I didn't have enough headroom to sit comfortably.
+My neck and upper back were always sore the next day after a track day, and thanks to the extra headroom I no
+longer need to suffer as much.
+
+### Was this crash tested?
+
+NO! See the [License](#License) section above.
+
+### Does it retain the factory side airbag.
+
+Yes, with caveats.
+
+Yes in the sense that you still have the stock seat that still has an airbag and it's still connected to the car.\
+The caveat is that the seat is ~18 mm lower than the stock seat can physically go, which means the position of the
+airbag is outsie the range it was designed to operate.
+
+Once again, no crash testing has been performed for this kit. See the [License](#License) section above.
+
+### Will it work on a 1st gen BRZ / FR-S / 86?
+
+Not with the stock seats. It should work with gen2 seats in a gen1 car, but I haven't verified that yet.\
+I don't know if the side airbag in gen2 seats is compatible with gen1 cars.
+
+### Can it work for the passenger seat?
+
+Maybe, I haven't tried.
+
+### Can I adjust the legroom with this kit?
+
+You lose the factory sliders. There's a little bit of legroom adjustability from the height adjustment mechanism,
+but not nearly as much as the stock seat has with sliders.
+
+### Can I still haul tires in the back seat?
+
+I hauled 4x 245/40R17 tires in my car with this kit. As long as you load stuff through the passenger seat,
+you shouldn't notice any difference from the stock seat in your normal driving position from the perspective
+of carrying stuff in the rear seat.
