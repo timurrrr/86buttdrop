@@ -71,13 +71,13 @@ to as "legroom" throughout the rest of the instructions.
 ----------------- | ------------- | -----
 30-60 | TBD | Not tested yet, but should be doable
 70 | TBD | Verified, not published yet
-80 | [Download](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | Verified
+80 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | Verified
 90 | --- | Will not be offered due to challenging geometry. Use 80 or 100 instead.
 100 | TBD | Work in progress
 
 ## Ordering the parts from SendCutSend
 
-Download the ZIP file for the desired "legroom" and unzip it.
+Download the ZIP file for the desired "legroom" from the table above and unzip it.
 
 Go to https://sendcutsend.com/ (SCS) and create an account.
 
@@ -86,8 +86,8 @@ Upload each `.eps` file from the unzipped folder int SCS one by one, performing 
 ### Door side and transmission side L brackets
 * Confirm "Inches" as measurement units (I don't know why SCS thinks it's inches as I made the design in mm, but whatever).
 * Use "Metals > Steel > A36/1008 Mild steel > **3** mm CRS".
-* On the "Add services" page, set both bends to 90 degrees **up**.
-* On the "Add finishing" page, choose "Gloss black".
+* On the "Add services" page, set both bends to 90 degrees **UP**.
+* On the "Add finishing" page, choose "Powder coating > Matte black".
 
 Here's how the parts should look like in the 3D preview mode:\
 (the exact geometry will depend on which "legroom" you chose)
@@ -98,10 +98,10 @@ Here's how the parts should look like in the 3D preview mode:\
 ### Floor bracket
 * Use "Metals > Steel > A36/1008 Mild steel > **3.4** mm CRS".
 * On the "Add services" page, make
-  * the two bends at the front of the bracket **5** degrees **down**,
-  * the bend at the top of the seatbelt tab **35** degrees **up**,
-  * and at the bottom of the seatbelt tab **55** degrees **up**.
-* On the "Add finishing" page, choose "Gloss black" (send me photos if you decide to add a splash of color!)
+  * the two bends at the front of the bracket **5** degrees **DOWN**,
+  * the bend at the top of the seatbelt tab **35** degrees **UP**,
+  * and at the bottom of the seatbelt tab **55** degrees **UP**.
+* On the "Add finishing" page, choose "Powder coating > Matte black" (send me photos if you decide to add a splash of color!)
 
 Here's how the part should look like in the 3D preview mode:\
 (the exact geometry will depend on which "legroom" you chose)
@@ -113,19 +113,89 @@ Here's how the part should look like in the 3D preview mode:\
 * Use "Metals > Steel > 4130 Chromoly > 4.8 mm".
 * No services, no finishing.
 
+Add one of each to cart (you should have four in total).
+It should be about $200 in total. Order when ready!
+
 ## Additional hardware
 
 You will need:
 
 * 8x Class 10.9 M10x1.25 _flange_ bolts, 25 mm thread length.
 * 5x Class 10.9 M10x1.25 _flange_ nuts.
-* 1x Grade 8 7/16”-20 bolt, 3/4" thread length.
+* 1x Grade 8 7/16"-20 bolt, 3/4" thread length.
 
 I got all of these at a local ACE Hardware store.
 
 ## Installation instructions
 
-TODO
+**Warning: these instructions are incomplete.**
+
+TODO: Walk through the installation instructions again with a new user, take photos and add here.
+
+Tools required:
+
+* Metric sockets and wrenches
+* Breaker bar
+* T50 L-shaped wrench, or better yet T50 bit with a low profile wrench
+* Blue loctite
+
+Step by step instruction:
+
+1. Fully lower the window in the driver side door.
+1. Disconnect the battery.
+1. Move the seat back all the way forward, pull out the headrest.
+1. Move the steering wheel all the way forward and up, cover it with a towel or a rag.
+1. Raise the seat all the way up, detach the cloth flap under the front of the seat from the metal frame of the seat.
+1. Detach the conduit for the wires from the metal tab on the seat, disconnect the harnesses from the seat.
+   * This can be a little tricky, but take your time. If you get it right, you won't need to apply much force to pull things out.
+1. Using a 12 mm (TODO: verify) socket and a breaker bar, loosen the four bolts that attach the seat to the floor.
+   * You'll need to slide the seat forward to access the rear bolts.
+1. Remove the four bolts. You will not reuse them for this kit, but keep them in case you want to put the factory sliders back.
+1. Put another towel over the door jamb.
+1. Prepare a bench, moving box, or something like that to put the seat.
+1. Carefully pull the seat out of the car, flip it so that the back of the seat back faces down, and set it on the bench / moving box / etc.
+1. Pull the plastic covers at the back of the stock rails off the rails.
+   * Optional: cut the covers off the plastic part that attaches them to the back of the seat, and pull those C-attachments out of the seat.
+1. Using a 14 mm wrench, remove the nut attaching the seatbelt tab to the seat, and the spring washer. Carefully put the tab into the seat.
+1. Use the height adjustment mechanism to "raise" the seat all the way.
+1. Using a T50 wrench, remove the four black bolts that attach the seat to the seat rail slider.
+1. Attach the transmission side and door side brackets to the seat using the same four bolts in the same positions.
+   * Consider using blue loctite on the threads.
+   * Use one of the M10 flange nuts to hold the bolt under the height adjustment mechanism.
+   * Tigthen them to ~20 ft•lbs.
+1. TODO: document which metal tab to bend out of the way of the transmission side backet.
+1. TODO: document which conduit holders to relocate to prevent crushing them between the seat and the floor.
+1. Using two M10 flange bolts with the tip pointing towards the seat, hang the floor bracket onto the side brackets.
+1. Put the other two bolts through the floor bracket and the side brackets. Again, the tips should point at the seat.
+1. Finger-tighten four M10 flange nuts onto the four bolts.
+1. Use the height adjustment mechanism to "lower" the seat all the way, then tigthen the bolts between the side brackets
+   and the floor bracket to 50 ft•lbs.
+1. "Raise" the seat all the way again, put the 7/16" bolt through the seatbelt tab attachment hole, then put the
+   sleeve you ordered through SCS on top of the bolt, and the OEM spring washer. Put the seatbelt tab on to of all
+   that, and secure it with the OEM nut. Tigthen to 30+ ft•lbs.
+1. "Lower" the seat again.
+1. Carefully put the seat back into the car, and roughly align it with the holes on the floor.
+1. Raise the seat all the way up.
+1. Using an M10 flange bolt (not the OEM bolts!), attach the transmission side rear corner of the kit to the floor.
+   * Don't fully thread it in yet.
+   * For the 80 mm "legroom" kit, you might need to carefully pull the seat off the floor a little bit
+     in order to put the bolt in the right position. Be careful and take your time to make sure that the
+     bolt "grabs" the threads on the floor. Don't cross-thread the threads! You might need a helper to
+     hold the seat slightly off the floor.
+1. Repeat for the door side rear corner.
+1. Repeat for the front two bolts, these should be easier.
+1. Hand-tigthen the four floor bolts.
+1. Lower the seat all the way, checking for clearance issues.
+   * For kits with "legroom" less than 70 mm, you might need to bend the tab that held the conduit for the electric
+     harnesses a bit towards the rear of the car.
+1. Ask a helper to sit in the seat, while looking under the seat with a flashlight.
+1. Ask the helper to bounce up and down in the seat a bit, and make sure that no conduits are getting crushed between
+   the seat and the floor. Take a moment to appreciate how low the seat is now!
+1. In case of any clearance issues, take the seat out of the car, and adjust as needed.
+   * [Let me know](https://github.com/timurrrr/86buttdrop/issues/new) what issues you run into and how you worked around,
+     so that I can update the documentation.
+1. If everything looks good, reconnect the harnesses, attach the conduit and the cloth flap to the seat.
+1. Enjoy! (and consider donating, see above)
 
 ## FAQ
 
