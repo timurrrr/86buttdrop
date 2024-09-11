@@ -74,10 +74,10 @@ to as "legroom" throughout the rest of the instructions.
 "Legroom", mm | Links | Notes
 ----------------- | ------------- | -----
 30-60 | TBD | Not tested yet, but should be doable
-70 | TBD | Verified, not published yet
+70 | TBD | Verified, not published yet. Coming soon!
 80 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | Verified
 90 | --- | Will not be offered due to challenging geometry. Use 80 or 100 instead.
-100 | TBD | Work in progress
+100 | TBD | Requires a different layout, work in progress
 
 ## Ordering the parts from SendCutSend
 
@@ -145,6 +145,7 @@ Tools required:
 * Breaker bar
 * T50 L-shaped wrench, or better yet T50 bit with a low profile wrench
 * Blue loctite
+* Optional: Tesa 51608 tape or similar.
 
 Step by step instruction:
 
@@ -166,6 +167,7 @@ Step by step instruction:
 1. Using a 14 mm wrench, remove the nut attaching the seatbelt tab to the seat, and the spring washer. Carefully put the tab into the seat.
 1. Use the height adjustment mechanism to "raise" the seat all the way.
 1. Using a T50 wrench, remove the four black bolts that attach the seat to the seat rail slider.
+1. Optional: Cover the bottom edges of the transmission side and door side brackets with tape to reduce squeaks.
 1. Attach the transmission side and door side brackets to the seat using the same four bolts in the same positions.
    * Consider using blue loctite on the threads.
    * Use one of the M10 flange nuts to hold the bolt under the height adjustment mechanism.
