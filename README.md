@@ -40,9 +40,9 @@ If someone can help with a FEA analysis or crash testing for this kit that would
 
 ## Support the project
 
-I've spent over $750 on multiple iterations of prototype parts, and countless hours pulling the seat out,
-measuring things, testing fitment, and putting the seat back in back in. I also had to go to a chiropractor
-a few times \:)
+I've spent over $750 on multiple iterations of prototype parts (not including the cost of my own kit!),
+and countless hours pulling the seat out, measuring things, testing fitment, and putting the seat back
+in back in... I also had to go to a chiropractor a few times \:)
 
 While I'm sharing the results with you for free, I would really appreciate donations to help me offset
 the costs, and motivate me to work on more projects like this in the future.
@@ -223,6 +223,26 @@ You should expect ~$200 for parts from SCS, and ~$50 for quality hardware from y
 This is comparable to the price of a seat bracket for a bucket seat WITHOUT the bucket seat!
 
 Consider [donating](#support-the-project) to help me offset the R&D costs for this project.
+
+### Does it require any modifications to the stock parts?
+
+Yes, but should be minor.
+
+All "legroom" options require bending one non-functional tab on the bottom of the seat that is out of the view.
+Some wires need to be relocated, but that's reversible. The plastic covers for the rear ends of the factory
+rails need to be removed and can break (very brittle plastic), but they don't matter that much, especially
+if nobody can fit behind you anyway.
+
+Some "legroom" options might require additional mostly-reversible bending of the parts underneath the seat.
+
+No drilling or cutting of stock parts is required.
+
+### Does the kit "just work"?
+
+I tried my best, but you might need to drill or file a few mm here and there if I messed something up.
+SendCutSend can mess something up too, so if some parts don't seem to fit, please compare them against the
+files you send to them. They messed up one of my orders badly, but to their credit they made new parts for
+me for free.
 
 ### Can I adjust the legroom with this kit?
 
