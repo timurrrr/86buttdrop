@@ -36,6 +36,8 @@ That being said, if you get in an accident with this kit installed in the car, I
 if you [share](https://github.com/timurrrr/86buttdrop/issues/new) the resuls with the community,
 such as whether any parts or hardware fail, if the side airbag deploys, etc.
 
+If someone can help with a FEA analysis or crash testing for this kit that would be amazing!
+
 ## Support the project
 
 I've spent over $750 on multiple iterations of prototype parts, and countless hours pulling the seat out,
@@ -73,12 +75,12 @@ to as "legroom" throughout the rest of the instructions.
 
 "Legroom", mm | Links | Notes
 ----------------- | ------------- | -----
-<50 | TBD | Not tested yet, but should be doable, but requires a different design for side brackets.
-50-60 | TBD | Not verified. Should be easy to make based on 70-80 kits, but would like someone to verify before I publish.
+<50 | TBD | Haven't tried yet, but looks doable. Will require a slightly different design for side brackets.
+50-60 | TBD | Should be easy to make, see the difference between the 70 and 80 kits.
 70 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_70.zip) | An earlier revision was verified.
 80 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | Verified!
-90 | --- | Will not be offered due to challenging geometry. Use 80 or 100 instead.
-100 | TBD | Requires a different layout, work in progress.
+90 | --- | Will not be offered due to geometric challenges. Use the 80 or 100 kit instead.
+100 | TBD | Requires a different layout than 50-80, work in progress. Might be infeasible.
 
 ## Ordering the parts from SendCutSend
 
@@ -222,29 +224,6 @@ This is comparable to the price of a seat bracket for a bucket seat WITHOUT the 
 
 Consider [donating](#support-the-project) to help me offset the R&D costs for this project.
 
-### Was this crash tested?
-
-NO! See the [License](#license) section above.
-
-### Does it retain the factory side airbag.
-
-Yes, with caveats.
-
-Yes in the sense that you still have the stock seat that still has an airbag and it's still connected to the car.\
-The caveat is that the seat is ~18 mm lower than the stock seat can physically go, which means the position of the
-airbag is outsie the range it was designed to operate.
-
-Once again, no crash testing has been performed for this kit. See the [License](#License) section above.
-
-### Will it work on a 1st gen BRZ / FR-S / 86?
-
-Not with the stock seats. It should work with gen2 seats in a gen1 car, but I haven't verified that yet.\
-I don't know if the side airbag in gen2 seats is compatible with gen1 cars.
-
-### Can it work for the passenger seat?
-
-Maybe, I haven't tried.
-
 ### Can I adjust the legroom with this kit?
 
 You lose the factory sliders. There's a little bit of legroom adjustability from the height adjustment mechanism,
@@ -255,3 +234,33 @@ but not nearly as much as the stock seat has with sliders.
 I hauled 4x 245/40R17 tires in my car with this kit. As long as you load stuff through the passenger seat,
 you shouldn't notice any difference from the stock seat in your normal driving position from the perspective
 of carrying stuff in the rear seat.
+
+That being said, on some very rare occasions I need just a few more inches to fit something on the rear seats.
+With the stock rails I could move the seat forward more than usual for a short drive, but can't gain more than
+an inch or so with the lowering kit.
+
+### Was this crash tested?
+
+NO! See the [License](#license) section above.
+
+### Does it retain the factory side airbag?
+
+Yes, with caveats.
+
+Yes in the sense that you still have the stock seat that still has an airbag and it's still connected to the car.\
+The caveat is that the seat is ~18 mm lower than the stock seat can physically go, which means the position of the
+airbag is outsie the range it was designed to operate. (I'm personally skeptical that a helmet pressed into the
+ceiling in one's normal is within the operating range of the safety systems in the car either...)
+
+Once again, no crash testing has been performed for this kit. See the [License](#License) section above.
+
+### Will it work on a 1st gen BRZ / FR-S / 86?
+
+Not with the stock seats. It should work with gen2 seats in a gen1 car, but I haven't verified that yet.\
+I don't know if the side airbag in gen2 seats is compatible with gen1 cars.
+
+### Can it work for the passenger seat?
+
+Maybe, I haven't tried. The passenger seat doesn't have the height adjustment mechanism, so it would be a pain
+to install this kit. Furthermore, it would compromise the convenience of loading stuff onto the back seat, such
+as spare tires.
