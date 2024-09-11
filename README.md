@@ -177,6 +177,7 @@ Step by step instruction:
    * Tigthen them to ~20 ft•lbs.
 1. TODO: document which metal tab to bend out of the way of the transmission side backet.
 1. TODO: document which conduit holders to relocate to prevent crushing them between the seat and the floor.
+1. Break off the C-shaped metal part around where the seatbelt buckle will go and discard. Optional: cut/file the remaining "bridges" that stick out.
 1. Using two M10 flange bolts with the tip pointing towards the seat, hang the floor bracket onto the side brackets.
 1. Put the other two bolts through the floor bracket and the side brackets. Again, the tips should point at the seat.
 1. Finger-tighten four M10 flange nuts onto the four bolts.
