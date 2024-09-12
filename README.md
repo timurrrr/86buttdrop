@@ -285,3 +285,8 @@ I don't know if the side airbag in gen2 seats is compatible with gen1 cars.
 Maybe, I haven't tried. The passenger seat doesn't have the height adjustment mechanism, so it would be a pain
 to install this kit. Furthermore, it would compromise the convenience of loading stuff onto the back seat, such
 as spare tires.
+
+## Acknowledgments
+
+I'd like to thank Jerrit Erickson for his enormous help with the early prototypes and sanity checking me
+along the way.
