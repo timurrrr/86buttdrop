@@ -289,4 +289,4 @@ as spare tires.
 ## Acknowledgments
 
 I'd like to thank Jerrit Erickson for his enormous help with the early prototypes and sanity checking me
-along the way.
+along the way, and Ed Runnion for testing an early prototype, providing feedback and rave reviews on Facebook :)
