@@ -8,6 +8,8 @@ but will require cutting OEM parts, so I've decided to not do it for now.
 
 Here's how the seat looks like with the kit installed:
 
+![Assembled view, without the seat](images/overview.jpg)
+
 ![Assembled view](images/seat_front.png)
 
 Here's how low the seat goes with this kit. In this GIF, the light from a flashlight positioned
