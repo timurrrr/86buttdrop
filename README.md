@@ -148,7 +148,7 @@ You will need:
 * Class 10.9 M10x1.25 _flange_ bolts, 20 mm thread length.
   * For the 100 mm legroom option, you'll need 6 of them.
   * For other legroom options, you'll only need 4.
-  * It's OK to use slightly longer bolts for this item.25 mm)
+  * It's OK to use slightly longer bolts for this item, e.g. same 25 mm size as mentioned above.
 * Class 10.9 M10x1.25 _flange_ nuts.
   * For the 100 mm legroom option, you'll need 7 of them.
   * For other legroom options, you'll only need 5.
