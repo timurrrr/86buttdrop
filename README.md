@@ -207,7 +207,8 @@ Tools required:
 1. Tigthen all four bolts to ~20 ft•lbs.
 1. Optional: Cover the bottom edges of the transmission side and door side brackets with tape to reduce squeaks.
 1. Using pliers or a crescent wrench, bend the metal tab near the transmission side front bolts out of the way.
-   * TODO: add photos.
+   ![Metal tab: before bending](images/metal_tab_1.png)
+   ![Metal tab: after bending](images/metal_tab_2.png)
 1. Relocate the wires under the seat to avoid the lowest area of the seat to prevent crushing them against the floor.
    * TODO: add photos.
 1. On the floor bracket, break off the C-shaped metal part around where the seatbelt buckle will go and discard.
