@@ -167,6 +167,7 @@ Tools required:
 * Metric sockets and wrenches
 * Breaker bar
 * T50 L-shaped wrench, or better yet T50 bit with a low profile wrench
+* Zip ties
 * Optional: Blue loctite
 * Optional: Tesa 51608 tape or similar.
 
@@ -209,8 +210,11 @@ Tools required:
 1. Using pliers or a crescent wrench, bend the metal tab near the transmission side front bolts out of the way.
    ![Metal tab: before bending](images/metal_tab_1.png)
    ![Metal tab: after bending](images/metal_tab_2.png)
-1. Relocate the wires under the seat to avoid the lowest area of the seat to prevent crushing them against the floor.
-   * TODO: add photos.
+1. Relocate the wires under the seat to avoid the lowest area of the seat to
+   prevent crushing them against the floor. Attach the cables and conduits to
+   the wire frame under the seat with zip ties. Flip the two cables at the front
+   of the seat to the other side of the metal tabs.
+   ![Recommended way to relocate cables](images/cable_relocation.png)
 1. On the floor bracket, break off the C-shaped metal part around where the seatbelt buckle will go and discard.
    * Optional: cut/file the remaining "bridges" that stick out.
 1. Using two 20 mm M10 flange bolts, hang the floor bracket onto the side brackets, pointing the tips of the bolts toward the seat.
