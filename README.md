@@ -16,7 +16,7 @@ And how the seat looks like with the kit installed:
 
 ![Assembled view](images/seat_front.png)
 
-The GIF below demonstrates how low the seat can go with this kit compared to the OEM raisl. The light
+The GIF below demonstrates how low the seat can go with this kit compared to the OEM rails. The light
 is coming from a flashlight positioned behind the seat, and is obstructed by the plastic panel on the
 side of the seat. With the seat on OEM rails in the lowest position, that plastic panel is about 19 mm
 above the floor, but with the lowering kit the gap is completely eliminated. Note that this GIF was
