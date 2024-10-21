@@ -212,7 +212,7 @@ Tools required:
    * Use one of the M10 flange nuts to hold the bolt under the height adjustment mechanism.
 1. Tigthen all four bolts to ~20 ft•lbs.
 1. Optional: Cover the bottom edges of the transmission side and door side brackets with tape to reduce squeaks.
-1. Using pliers or a crescent wrench, bend the metal tab near the transmission side front bolts out of the way:
+1. Using pliers or a crescent wrench, bend the metal tab near the transmission side front bolts out of the way:\
    ![Metal tab: before bending](images/metal_tab_1.png)
    ![Metal tab: after bending](images/metal_tab_2.png)
 1. Relocate the wires under the seat to avoid the lowest area of the seat to
