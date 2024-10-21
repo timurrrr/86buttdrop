@@ -113,14 +113,14 @@ Here's how the parts should look like in the 3D preview mode:\
 ### Floor bracket
 
 1. Use "Metals > Steel > A36/1008 Mild steel > **3.4** mm CRS".
-1. On the "Add services" page, make
+2. On the "Add services" page, make
   * the two bends at the front of the bracket **5** degrees **DOWN**,
   * the bend at the top of the seatbelt tab **35** degrees **UP**,
   * and at the bottom of the seatbelt tab **55** degrees **UP**.
   * Tip: when you choose which bend line to enter the degrees for, it should
     highlight the bend in the 2D/3D preview.
-  * ![How much to bend each bend](images/floor_bracket_bends.png)
-1. On the "Add finishing" page, choose "Powder coating > Matte black" (send me photos if you decide to add a splash of color!)
+    ![How much to bend each bend](images/floor_bracket_bends.png)
+3. On the "Add finishing" page, choose "Powder coating > Matte black" (send me photos if you decide to add a splash of color!)
 
 Here's how the part should look like in the 3D preview mode:\
 (the exact geometry will depend on which "legroom" you chose)
