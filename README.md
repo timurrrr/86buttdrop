@@ -84,10 +84,10 @@ to as "legroom" throughout the rest of the instructions.
 ----------------- | ------------- | -----
 <50 | TBD | Haven't tried yet, but looks doable. Will require a slightly different design for side brackets.
 50-60 | TBD | Should be easy to make, see the difference between the 70 and 80 kits.
-70 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_70.zip) | An earlier revision was verified.
-80 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | Verified!
+70 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_70.zip) | An earlier revision was verified, added minor improvements.
+80 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | An earlier revision was verified, added minor improvements.
 90 | --- | Will not be offered due to geometric challenges. Use the 80 or 100 kit instead.
-100 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_100.zip) | An earlier revision was verified.
+100 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_100.zip) | An earlier revision was verified, added minor improvements.
 
 ## Ordering the parts from SendCutSend
 
