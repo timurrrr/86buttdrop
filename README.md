@@ -158,9 +158,12 @@ I got all of these at a local ACE Hardware store for ~$50.
 
 ## Installation instructions
 
-**Warning: these instructions are incomplete.**
-
-TODO: Walk through the installation instructions again with a new user, take photos and add here.
+**Warning: these instructions are not quite complete.**
+If you find any steps that are too unclear, check if anyone
+[brought it up](https://github.com/timurrrr/86buttdrop/issues) already, and if
+not please [file a new issue](https://github.com/timurrrr/86buttdrop/issues/new).
+Brownie points if you can take some photos for me and
+[submit a PR](https://github.com/timurrrr/86buttdrop/compare) instead.
 
 Tools required:
 
@@ -203,11 +206,13 @@ Tools required:
 
 1. Attach the transmission side and door side brackets to the seat using the same two front bolts in the same positions.
    * Consider using blue loctite on the threads.
+   * Make sure that the cable on the door side of the seat goes under the bracket:
+     ![Cable routing](images/door_side_cable.png)
 1. Turn the bar back into the seat, and install the rear bolts.
    * Use one of the M10 flange nuts to hold the bolt under the height adjustment mechanism.
 1. Tigthen all four bolts to ~20 ft•lbs.
 1. Optional: Cover the bottom edges of the transmission side and door side brackets with tape to reduce squeaks.
-1. Using pliers or a crescent wrench, bend the metal tab near the transmission side front bolts out of the way.
+1. Using pliers or a crescent wrench, bend the metal tab near the transmission side front bolts out of the way:
    ![Metal tab: before bending](images/metal_tab_1.png)
    ![Metal tab: after bending](images/metal_tab_2.png)
 1. Relocate the wires under the seat to avoid the lowest area of the seat to
