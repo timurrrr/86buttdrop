@@ -87,7 +87,7 @@ to as "legroom" throughout the rest of the instructions.
 70 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_70.zip) | An earlier revision was verified.
 80 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | Verified!
 90 | --- | Will not be offered due to geometric challenges. Use the 80 or 100 kit instead.
-100 | TBD | Requires a different layout than 50-80, work in progress.
+100 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_100.zip) | An earlier revision was verified.
 
 ## Ordering the parts from SendCutSend
 
@@ -146,12 +146,12 @@ You will need:
 * 4x Class 10.9 M10x1.25 _flange_ bolts, 25 mm thread length.
   * We will use them to bolt the kit to the floor, so it's important to use the right length.
 * Class 10.9 M10x1.25 _flange_ bolts, 20 mm thread length.
-  * For the 100 mm legroom option, you'll need 6 of them.
-  * For other legroom options, you'll only need 4.
+  * For the 100 mm "legroom" option, you'll need 6 of them.
+  * For other "legroom" options, you'll only need 4.
   * It's OK to use slightly longer bolts for this item, e.g. same 25 mm size as mentioned above.
 * Class 10.9 M10x1.25 _flange_ nuts.
-  * For the 100 mm legroom option, you'll need 7 of them.
-  * For other legroom options, you'll only need 5.
+  * For the 100 mm "legroom" option, you'll need 7 of them.
+  * For other "legroom" options, you'll only need 5.
 * 1x Grade 8 7/16"-20 bolt, 3/4" thread length.
 
 I got all of these at a local ACE Hardware store for ~$50.
@@ -224,7 +224,7 @@ Tools required:
    * Optional: cut/file the remaining "bridges" that stick out.
 1. Using two 20 mm M10 flange bolts, hang the floor bracket onto the side brackets, pointing the tips of the bolts toward the seat.
 1. Put the other bolts through the floor bracket and the side brackets. Again, the tips should point at the seat.
-   * For the 100 legroom option, you'll need to use 6 bolts, otherwise 4.
+   * For the 100 "legroom" option, you'll need to use 6 bolts, otherwise 4.
 1. Put M10 flange nuts onto the bolts, but don't tighten them yet.
 1. Use the height adjustment mechanism to "lower" the seat all the way.
 1. Shake the floor bracket relative to the side brackets to make sure there's no binding.
