@@ -102,6 +102,7 @@ Upload each `.eps` file from the unzipped folder int SCS one by one, performing 
 1. Confirm "Inches" as measurement units (I don't know why SCS thinks it's inches as I made the design in mm, but whatever).
 1. Use "Metals > Steel > A36/1008 Mild steel > **3** mm CRS".
 1. On the "Add services" page, set both bends to 90 degrees **UP**.
+   * If it warns you about the risk of distortion due to bending, ignore the warnings.
 1. On the "Add finishing" page, choose "Powder coating > Matte black".
 
 Here's how the parts should look like in the 3D preview mode:\
@@ -136,7 +137,7 @@ Here's how the part should look like in the 3D preview mode:\
 ### Placing the order
 
 * Add one of each part to your Cart (you should have four items in total).
-* Verify the quote, it should be about $200.
+* Verify the quote, it should be about $200-260, depending on the kit.
 * Order when ready!
 
 ## Additional hardware
@@ -154,7 +155,7 @@ You will need:
   * For other "legroom" options, you'll only need 5.
 * 1x Grade 8 7/16"-20 bolt, 3/4" thread length.
 
-I got all of these at a local ACE Hardware store for ~$50.
+I got all of these at a local ACE Hardware store for ~$30-40.
 
 ## Installation instructions
 
