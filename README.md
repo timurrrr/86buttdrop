@@ -168,8 +168,9 @@ Brownie points if you can take some photos for me and
 
 Tools required:
 
-* Metric sockets and wrenches
-* Breaker bar
+* Metric wrenches
+  * Highly recommended: a _ratcheting_ wrench in a size that fits the 25 mm long bolts you bought
+* Breaker bar and a 12 mm socket
 * T50 L-shaped wrench, or better yet T50 bit with a low profile wrench
 * Zip ties
 * Optional: Blue loctite
@@ -240,11 +241,20 @@ Tools required:
 
 ### Installing the seat into the car
 
+1. Using your fingers only, thread the M10 25 mm long bolts into the holes in the floor all the way.
+   * Make sure you can fully screw them in without bottoming out.
+   * Check/clean the threads from debris. It's better to do that now than when you have the seat in the way.
+1. Remove the bolts.
 1. Carefully put the seat back into the car, and roughly align it with the holes on the floor.
 1. Raise the seat all the way up.
 1. Using M10 flange bolts (not the OEM bolts!), attach the kit to the floor.
    * Make sure you don't cross-thread anything!
    * Don't fully thread the bolts yet. Only use finger-level of torque on them.
+   * The front bolts are easily accessible.
+   * For the 100 mm "legroom" kit, the door side rear bolts is easier to access from the side, with your
+     right hand upside down: (TODO: insert photo)
+     * For the other kits, both rear bolts are easier to access through the gap between the front seat
+       and the back seat.
    * If any of the bolts require more torque than amounts achievable by fingers, try to take the bolt
      out, and check/clean the threads. Maybe try a different bolt.
    * The holes around the bolts will be a bit tight, so figure out what works best for you. Try starting
@@ -253,7 +263,7 @@ Tools required:
    * For the 100 mm "legroom" kit, the transmission side rear bolt will require some patience, and a bit
      of hand mobility. Once the bolt is roughly in place, you should be able to use your index finger and
      thumb around the post/tab of the transmission side bracket next to that bolt.
-   * For the 80 mm "legroom" kit, you might need to carefully pull the seat off the floor a little bit
+   * For the 80 mm "legroom" kit, you might need to carefully raise the kit off the floor a little bit
      in order to put the bolt in the right position. Be careful and take your time to make sure that the
      bolt "grabs" the threads on the floor. You might need a helper to hold the seat slightly off the floor.
 1. Once all four floor bolts are started, hand-tigthen them all.
