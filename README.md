@@ -252,7 +252,8 @@ Tools required:
    * Don't fully thread the bolts yet. Only use finger-level of torque on them.
    * The front bolts are easily accessible.
    * For the 100 mm "legroom" kit, the door side rear bolts is easier to access from the side, with your
-     right hand upside down: (TODO: insert photo)
+     right hand upside down:
+     ![Turning the right hand upside down to access the door side rear bolt](images/upside_down_hand_100.png)
      * For the other kits, both rear bolts are easier to access through the gap between the front seat
        and the back seat.
    * If any of the bolts require more torque than amounts achievable by fingers, try to take the bolt
