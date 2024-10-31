@@ -154,8 +154,11 @@ You will need:
   * For the 100 mm "legroom" option, you'll need 7 of them.
   * For other "legroom" options, you'll only need 5.
 * 1x Grade 8 7/16"-20 bolt, 3/4" thread length.
+  * TODO: I'm considering switching this to M12x1.25 flange bolt (20 mm thread length) + nut.
 
 I got all of these at a local ACE Hardware store for ~$30-40.
+
+TODO: add a photo with example bolts and nuts
 
 ## Installation instructions
 
