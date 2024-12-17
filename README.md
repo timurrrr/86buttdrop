@@ -131,6 +131,10 @@ Here's how the part should look like in the 3D preview mode:\
 
 ### Seatbelt bolt sleeve
 
+**PSA:** SendCutSend updated their geometry requirements, and is no longer
+accepting this design file.\
+Expect an update to the provided zips in the next few weeks - sorry about that!
+
 1. Use "Metals > Steel > 4130 Chromoly > 4.8 mm".
 1. No services, no finishing.
 
@@ -198,13 +202,18 @@ Tools required:
 1. Put another towel over the door jamb.
 1. Prepare a bench, moving box, or something like that to put the seat.
 1. Carefully pull the seat out of the car, flip it so that the back of the seat back faces down, and set it on the bench / moving box / etc.
+1. Meta-suggestion: for the next few steps, take photos of all the parts and hardware before taking things apart.
+   This will be useful if you revert to the OEM rails in the future, as well as help you
+   correctly assemble the kit.
 1. Pull the plastic covers at the back of the stock rails off the rails.
    * They are super-fragile, so be careful. I've seen cars when they were already broken even before the removal.
    * Optional: cut the covers off the plastic part that attaches them to the back of the seat, and pull those C-attachments out of the seat.
+1. Take a photo of how the seatbelt buckle sensor wire goes around the metal tab that holds the buckle socket.
 1. Using a 14 mm wrench, remove the nut attaching the seatbelt tab to the seat, and the spring washer. Carefully put the tab into the seat.
 1. Use the height adjustment mechanism to "raise" the seat off the rail all the way.
-1. Using a T50 wrench, remove the two rear bolts that attach the rail slider to the seat.
+1. Using a T50 wrench, remove the two bolts that attach the rail slider to the seat in the rear.
 1. Turn the bar that attaches the rail to the front of the seat out of the seat to gain better access to the bolts.
+1. Take a photo of how the wire goes around the rail "tabs" near the door side front bolt.
 1. Remove the front two bolts that attach the rail slider to the seat.
 
 ### Installing the kit onto the seat
@@ -235,7 +244,10 @@ Tools required:
 1. Shake the floor bracket relative to the side brackets to make sure there's no binding.
 1. Loosely tigthen these 4 or 6 bolts.
 1. Re-tighten all those 4 or 6 bolts to 50 ft•lbs.
-1. "Raise" the seat all the way again, put the 7/16" bolt through the seatbelt tab attachment hole.
+1. "Raise" the seat all the way again.
+1. Put the 7/16" bolt through the seatbelt buckle tab attachment hole.
+   * Make sure the seatbelt buckle sensor wire goes around the correct side of the tab.
+     TODO: Add a photo.
    * You might need to use a 16 mm wrench to force the bolt through the hole.
 1. Put the sleeve you ordered through SCS on top of the bolt, and the OEM spring washer.
 1. Put the seatbelt tab on to of all that, and secure it with the OEM nut.
@@ -250,6 +262,9 @@ Tools required:
 1. Remove the bolts.
 1. Carefully put the seat back into the car, and roughly align it with the holes on the floor.
 1. Raise the seat all the way up.
+1. For the 80 mm and 100 mm "legroom" kits, put two unused wrenches in between the floor and
+   and the back end of the floor bracket -- this will make it much easier to put the rear
+   bolts in!
 1. Using M10 flange bolts (not the OEM bolts!), attach the kit to the floor.
    * Make sure you don't cross-thread anything!
    * Don't fully thread the bolts yet. Only use finger-level of torque on them.
