@@ -133,7 +133,8 @@ Here's how the part should look like in the 3D preview mode:\
 
 **PSA:** SendCutSend updated their geometry requirements, and is no longer
 accepting this design file.\
-Expect an update to the provided zips in the next few weeks - sorry about that!
+Expect an update to the provided zips in the next few weeks - sorry about that!\
+See [Issue #1](https://github.com/timurrrr/86buttdrop/issues/1) for the details and a suggested workaround if you're in a rush.
 
 1. Use "Metals > Steel > 4130 Chromoly > 4.8 mm".
 1. No services, no finishing.
@@ -157,8 +158,8 @@ You will need:
 * Class 10.9 M10x1.25 _flange_ nuts.
   * For the 100 mm "legroom" option, you'll need 7 of them.
   * For other "legroom" options, you'll only need 5.
-* 1x Grade 8 7/16"-20 bolt, 3/4" thread length.
-  * TODO: I'm considering switching this to M12x1.25 flange bolt (20 mm thread length) + nut.
+* ~~1x Grade 8 7/16"-20 bolt, 3/4" thread length.~~
+  * See [Issue #1](https://github.com/timurrrr/86buttdrop/issues/1) for an upcoming change.
 
 I got all of these at a local ACE Hardware store for ~$30-40.
 
