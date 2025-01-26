@@ -179,10 +179,12 @@ Tools required:
 * Metric wrenches
   * Highly recommended: a _ratcheting_ wrench in a size that fits the 25 mm long bolts you bought
 * Breaker bar and a 12 mm socket
-* T50 L-shaped wrench, or better yet T50 bit with a low profile wrench
+* T50 L-shaped wrench
+* Optional: T50 bit with a low profile wrench
 * Zip ties
 * Optional: Blue loctite
-* Optional: Tesa 51608 tape or similar.
+* Optional: Tesa 51608 tape or similar
+* Optional: Soft foam kneeling pad
 
 ### Removing the seat from the car, and the OEM sliders from the seat
 
