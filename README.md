@@ -375,7 +375,7 @@ Once again, no crash testing has been performed for this kit. See the [License](
 Not with the stock seats. It should work with gen2 seats in a gen1 car, but I haven't verified that yet.\
 I don't know if the side airbag in gen2 seats is compatible with gen1 cars.
 
-### Can it work for the passenger seat?
+### Can a similar design work for the passenger seat?
 
 Maybe, I haven't tried. The passenger seat doesn't have the height adjustment mechanism, so it would be a pain
 to install this kit. Furthermore, it would compromise the convenience of loading stuff onto the back seat, such
