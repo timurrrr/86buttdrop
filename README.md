@@ -258,7 +258,7 @@ Tools required:
      TODO: Add a photo.
    * You might need to use a 16 mm wrench to force the bolt through the hole.
 1. Put the sleeve you ordered through SCS on top of the bolt, and the OEM spring washer.
-1. Put the seatbelt tab on to of all that, and secure it with the OEM nut.
+1. Put the seatbelt tab onto all of that, and secure it with the OEM nut.
 1. Tigthen the seatbelt tab bolt to 30+ ft•lbs.
 1. "Lower" the seat again.
 
