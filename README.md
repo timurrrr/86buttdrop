@@ -178,7 +178,8 @@ Tools required:
 
 * A set of metric wrenches
   * Highly recommended: a _ratcheting_ wrench in a size that fits the 25 mm long bolts you bought
-* A breaker bar and a 12 mm socket
+* A set of deep metric sockets
+* A breaker bar (and a 1/2" to 3/8" adapter if needed for the sockets)
 * T50 L-shaped wrench
 * Optional: T50 bit with a low profile wrench
 * Zip ties
@@ -270,9 +271,8 @@ Tools required:
 1. Remove the bolts.
 1. Carefully put the seat back into the car, and roughly align it with the holes on the floor.
 1. Raise the seat all the way up.
-1. For the 80 mm and 100 mm "legroom" kits, put two unused wrenches in between the floor and
-   and the back end of the floor bracket -- this will make it much easier to put the rear
-   bolts in!
+1. For the 80 mm and 100 mm "legroom" kits, put 15-16 mm deep sockets between the floor and and the back
+   end of the floor bracket -- this will make it much easier to put the rear bolts in! If needed, try other socket sizes.
 1. Using M10 flange bolts (not the OEM bolts!), attach the kit to the floor.
    * Make sure you don't cross-thread anything!
    * Don't fully thread the bolts yet. Only use finger-level of torque on them.
