@@ -215,6 +215,8 @@ Tools required:
 1. Take a photo of how the seatbelt buckle sensor wire goes around the metal tab that holds the buckle socket.
 1. Using a 14 mm wrench, remove the nut attaching the seatbelt tab to the seat, and the spring washer. Carefully put the tab into the seat.
 1. Use the height adjustment mechanism to "raise" the seat off the rail all the way.
+1. Take a moment to remember how the seat rail is attached to the "arms" under the seat.
+   * Notice that the door side rear bolt is different, and uses the bolt/arm/rail order instead of bolt/rail/arm order like the other three.
 1. Using a T50 wrench, remove the two bolts that attach the rail slider to the rear "arms" of the seat.
 1. Turn the bar that attaches the rail to the front "arms" of the seat out of the seat to gain better access to the bolts.
 1. Take a photo of how the wire goes around the rail "tabs" near the door side front bolt.
