@@ -260,7 +260,7 @@ Tools required:
 1. Put the sleeve you ordered through SCS on top of the bolt, and the OEM spring washer.
 1. Put the seatbelt tab onto all of that, and secure it with the OEM nut.
 1. Tigthen the seatbelt tab bolt to 30+ ft•lbs.
-1. "Lower" the seat again.
+1. "Lower" the seat again, check clearance with the bolt you've just installed.
 
 ### Installing the seat into the car
 
