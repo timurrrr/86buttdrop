@@ -176,12 +176,13 @@ Brownie points if you can take some photos for me and
 
 Tools required:
 
-* Metric wrenches
+* A set of metric wrenches
   * Highly recommended: a _ratcheting_ wrench in a size that fits the 25 mm long bolts you bought
-* Breaker bar and a 12 mm socket
+* A breaker bar and a 12 mm socket
 * T50 L-shaped wrench
 * Optional: T50 bit with a low profile wrench
 * Zip ties
+* Wire cutters
 * Optional: Blue loctite
 * Optional: Tesa 51608 tape or similar
 * Optional: Soft foam kneeling pad
@@ -195,7 +196,7 @@ Tools required:
 1. Move the back of the seat all the way forward, pull out the headrest.
 1. Move the seat all the way back.
 1. Raise the seat all the way up.
-1. Detach the cloth flap under the front of the seat from the metal frame of the seat.
+1. Detach the cloth flap under the front of the seat from the metal frame of the seat. It attaches to a wire frame with a C shape clip, you can pull the "tongue" of the clip down to detach.
 1. Detach the conduit for the wires from the metal tab on the seat.
 1. Disconnect the harnesses from the seat.
    * This can be a little tricky, but take your time. If you get it right, you won't need to apply much force to pull things out.
@@ -214,10 +215,10 @@ Tools required:
 1. Take a photo of how the seatbelt buckle sensor wire goes around the metal tab that holds the buckle socket.
 1. Using a 14 mm wrench, remove the nut attaching the seatbelt tab to the seat, and the spring washer. Carefully put the tab into the seat.
 1. Use the height adjustment mechanism to "raise" the seat off the rail all the way.
-1. Using a T50 wrench, remove the two bolts that attach the rail slider to the seat in the rear.
-1. Turn the bar that attaches the rail to the front of the seat out of the seat to gain better access to the bolts.
+1. Using a T50 wrench, remove the two bolts that attach the rail slider to the rear "arms" of the seat.
+1. Turn the bar that attaches the rail to the front "arms" of the seat out of the seat to gain better access to the bolts.
 1. Take a photo of how the wire goes around the rail "tabs" near the door side front bolt.
-1. Remove the front two bolts that attach the rail slider to the seat.
+1. Remove the two bolts that attach the rail slider to the front "arms" of the seat, and remove the rails.
 
 ### Installing the kit onto the seat
 
@@ -232,15 +233,17 @@ Tools required:
 1. Using pliers or a crescent wrench, bend the metal tab near the transmission side front bolts out of the way:\
    ![Metal tab: before bending](images/metal_tab_1.png)
    ![Metal tab: after bending](images/metal_tab_2.png)
+1. Pull the cloth flap at the back of the seat bottom to uncover the wires and the support structure of the seat.
 1. Relocate the wires under the seat to avoid the lowest area of the seat to
    prevent crushing them against the floor. Attach the cables and conduits to
    the wire frame under the seat with zip ties. Flip the two cables at the front
-   of the seat to the other side of the metal tabs.
+   of the seat to the other side of the metal tabs. You might need to temporarily unhook the transmission side rear
+   hook of the seat trim to move the seat warmer wire around.
    ![Recommended way to relocate cables](images/cable_relocation.png)
 1. On the floor bracket, break off the C-shaped metal part around where the seatbelt buckle will go and discard.
    * Optional: cut/file the remaining "bridges" that stick out.
-1. Using two 20 mm M10 flange bolts, hang the floor bracket onto the side brackets, pointing the tips of the bolts toward the seat.
-1. Put the other bolts through the floor bracket and the side brackets. Again, the tips should point at the seat.
+1. Using two 20 mm M10 flange bolts, hang the floor bracket onto the top holes of the side brackets, pointing the tips of the bolts toward the seat.
+1. Put the other bolts through the floor bracket and the side brackets. Again, the tips should point towards the seat.
    * For the 100 "legroom" option, you'll need to use 6 bolts, otherwise 4.
 1. Put M10 flange nuts onto the bolts, but don't tighten them yet.
 1. Use the height adjustment mechanism to "lower" the seat all the way.
@@ -299,9 +302,9 @@ Tools required:
 1. In case of any clearance issues, take the seat out of the car, and adjust as needed.
    * [Let me know](https://github.com/timurrrr/86buttdrop/issues/new) what issues you run into and how you worked around,
      so that I can update the documentation.
-1. If everything looks good, reconnect the harnesses, attach the conduit and the cloth flap to the front of the seat.
-1. Put the headrest back.
-1. Adjust the seat to your liking.
+1. If everything looks good, put the headrest back.
+1. Raise the seat again, reconnect the harnesses, attach the conduit and the cloth flap to the front of the seat.
+1. Lower the seat again, and adjust the seat back to your liking.
 1. You will likely need to re-adjust the mirrors.
 1. Enjoy! (and consider [donating](#support-the-project))
 
