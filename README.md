@@ -255,11 +255,11 @@ Tools required:
 1. Re-tighten all those 4 or 6 bolts to 50 ft•lbs.
 1. "Raise" the seat all the way again.
 1. Put the 7/16" bolt through the seatbelt buckle tab attachment hole.
-   * Make sure the seatbelt buckle sensor wire goes around the correct side of the tab.
-     TODO: Add a photo.
    * You might need to use a 16 mm wrench to force the bolt through the hole.
 1. Put the sleeve you ordered through SCS on top of the bolt, and the OEM spring washer.
 1. Put the seatbelt tab onto all of that, and secure it with the OEM nut.
+   * Make sure the seatbelt buckle sensor wire goes around the correct side of the tab.
+     TODO: Add a photo.
 1. Tigthen the seatbelt tab bolt to 30+ ft•lbs.
 1. "Lower" the seat again, check clearance with the bolt you've just installed.
 
@@ -273,27 +273,25 @@ Tools required:
 1. Raise the seat all the way up.
 1. For the 80 mm and 100 mm "legroom" kits, put 15-16 mm deep sockets between the floor and and the back
    end of the floor bracket -- this will make it much easier to put the rear bolts in! If needed, try other socket sizes.
-1. Using M10 flange bolts (not the OEM bolts!), attach the kit to the floor.
-   * Make sure you don't cross-thread anything!
-   * Don't fully thread the bolts yet. Only use finger-level of torque on them.
+1. READ ALL THE NOTES FOR THIS STEP BEFORE PROCEEDING! Using M10 flange bolts (not the OEM bolts!), attach the kit to the floor.
+   * Make sure you don't cross-thread anything! Un-screw the bolts if anything feels weird.
+   * Don't fully thread the bolts yet. Only use finger-level of torque to turn the bolts clockwise 3-4 turns.
+   * If any of the bolts require more torque than amounts achievable by fingers, try to take the bolt
+     out, and check/clean the threads. Maybe try a different bolt.
    * The front bolts are easily accessible.
-   * For the 100 mm "legroom" kit, the door side rear bolts is easier to access from the side, with your
-     right hand upside down:
+   * For the 100 mm "legroom" kit, the door side rear bolts can be accessed from the side. You might find
+     it easier to hold your right hand upside down:
      ![Turning the right hand upside down to access the door side rear bolt](images/upside_down_hand_100.png)
      * For the other kits, both rear bolts are easier to access through the gap between the front seat
        and the back seat.
-   * If any of the bolts require more torque than amounts achievable by fingers, try to take the bolt
-     out, and check/clean the threads. Maybe try a different bolt.
    * The holes around the bolts will be a bit tight, so figure out what works best for you. Try starting
      from the rear bolts to have more flexibility. If you can't find the right position, try putting the
      front bolts first to get the bracket roughly where it should be.
    * For the 100 mm "legroom" kit, the transmission side rear bolt will require some patience, and a bit
-     of hand mobility. Once the bolt is roughly in place, you should be able to use your index finger and
-     thumb around the post/tab of the transmission side bracket next to that bolt.
-   * For the 80 mm "legroom" kit, you might need to carefully raise the kit off the floor a little bit
-     in order to put the bolt in the right position. Be careful and take your time to make sure that the
-     bolt "grabs" the threads on the floor. You might need a helper to hold the seat slightly off the floor.
-1. Once all four floor bolts are started, hand-tigthen them all.
+     of hand mobility. You should be able to use your index finger and thumb around the post/tab of the
+     transmission side bracket next to that bolt to put the bolt through the hole and start tightening it.
+   * You might find it useful to wiggle the bottom of the seat horizontally while trying to turn the bolts with your hands.
+1. Once all four floor bolts are started, pull the sockets you used to raise the bracket (if applicable) and hand-tigthen all the bolts.
 1. Using a 14 mm wrench, tighten the floor bolts.
 1. Lower the seat all the way, checking for clearance issues.
    * For kits with "legroom" less than 70 mm, you might need to bend the tab that held the conduit for the electric
