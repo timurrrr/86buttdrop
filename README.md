@@ -211,7 +211,7 @@ Tools required:
    correctly assemble the kit.
 1. Pull the plastic covers at the back of the stock rails off the rails.
    * They are super-fragile, so be careful. I've seen cars when they were already broken even before the removal.
-   * Optional: cut the covers off the plastic part that attaches them to the back of the seat, and pull those C-attachments out of the seat.
+   * Optional: cut the covers off the plastic part that attaches them to the back of the seat, and pull those C-attachments out of the seat. Discard.
 1. Take a photo of how the seatbelt buckle sensor wire goes around the metal tab that holds the buckle socket.
 1. Using a 14 mm wrench, remove the nut attaching the seatbelt tab to the seat, and the spring washer. Carefully put the tab into the seat.
 1. Use the height adjustment mechanism to "raise" the seat off the rail all the way.
