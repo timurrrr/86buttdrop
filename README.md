@@ -149,21 +149,21 @@ See [Issue #1](https://github.com/timurrrr/86buttdrop/issues/1) for the details 
 
 You will need:
 
-* 4x Class 10.9 M10x1.25 _flange_ bolts, 25 mm thread length.
+* Class 10.9 M10x1.25 _flange_ bolts, 25 mm thread length.
   * We will use them to bolt the kit to the floor, so it's important to use the right length.
-* Class 10.9 M10x1.25 _flange_ bolts, 20 mm thread length.
-  * For the 100 mm "legroom" option, you'll need 6 of them.
-  * For other "legroom" options, you'll only need 4.
-  * It's OK to use slightly longer bolts for this item, e.g. same 25 mm size as mentioned above.
+  * For the 100 mm "legroom" option, you'll need 10 of them.
+  * For other "legroom" options, you'll need 8.
+  * Tested these bolts McMaster: [95735A625](https://www.mcmaster.com/95735A625/).
 * Class 10.9 M10x1.25 _flange_ nuts.
   * For the 100 mm "legroom" option, you'll need 7 of them.
   * For other "legroom" options, you'll only need 5.
-* ~~1x Grade 8 7/16"-20 bolt, 3/4" thread length.~~
-  * See [Issue #1](https://github.com/timurrrr/86buttdrop/issues/1) for an upcoming change.
+  * Tested these nuts from McMaster: [95108A106](https://www.mcmaster.com/95108A106/).
+* Class 10.9 M12 flange bolt with a low profile head and a matching flange nut.
+  * Successfully tested these M12x1.75 bolt and nut from McMaster to work:
+    [92137A807](https://www.mcmaster.com/92137A807/) and
+    [94942A104](https://www.mcmaster.com/94942A104/).
 
-I got all of these at a local ACE Hardware store for ~$30-40.
-
-TODO: add a photo with example bolts and nuts
+This should cost about $50 with shipping.
 
 ## Installation instructions
 
@@ -184,9 +184,25 @@ Tools required:
 * Optional: T50 bit with a low profile wrench
 * Zip ties
 * Wire cutters
+* Metal saw or belt saw
+* A set of files or a grinder
 * Optional: Blue loctite
 * Optional: Tesa 51608 tape or similar
 * Optional: Soft foam kneeling pad
+
+### Pre-work
+
+This step requires cutting and filing/grinding, so this can be done separately
+before the install.
+
+1. Take the M12 bolt and try to put it into the hole of each of the four rings
+   in the "sleeve" part you got from SCS.
+1. Pick the one that is the most snug that you can still put the bolt into.
+1. Using a saw (possibly a belt saw if you have), cut it off the square that
+   holds the four rings together. Chromoly is hard, take your time. You might
+   find it useful to use a vice or pliers to hold the square.
+1. Using a file or a grinder, smooth out whatever remains of the "bridge" that
+   you just cut.
 
 ### Removing the seat from the car, and the OEM sliders from the seat
 
@@ -254,10 +270,14 @@ Tools required:
 1. Loosely tigthen these 4 or 6 bolts.
 1. Re-tighten all those 4 or 6 bolts to 50 ft•lbs.
 1. "Raise" the seat all the way again.
-1. Put the 7/16" bolt through the seatbelt buckle tab attachment hole.
-   * You might need to use a 16 mm wrench to force the bolt through the hole.
-1. Put the sleeve you ordered through SCS on top of the bolt, and the OEM spring washer.
-1. Put the seatbelt tab onto all of that, and secure it with the OEM nut.
+1. Put the M12 bolt through the seatbelt buckle tab attachment hole.
+   * If the hole is too tight, try turning the bolt with a wrench as if it was a
+     screw.
+   * If it's still too tight, use a 12 mm drill bit to enlarge the hole
+     slightly. Please [let me know](https://github.com/timurrrr/86buttdrop/issues/new)
+     about this.
+1. Put the sleeve you made during the pre-work onto the bolt, and the OEM spring washer.
+1. Put the seatbelt tab onto all of that, and secure it with the M12 nut.
    * Make sure the seatbelt buckle sensor wire goes around the correct side of the tab.
      TODO: Add a photo.
 1. Tigthen the seatbelt tab bolt to 30+ ft•lbs.
