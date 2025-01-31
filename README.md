@@ -153,7 +153,7 @@ You will need:
   * We will use them to bolt the kit to the floor, so it's important to use the right length.
   * For the 100 mm "legroom" option, you'll need 10 of them.
   * For other "legroom" options, you'll need 8.
-  * Tested these bolts McMaster: [95735A625](https://www.mcmaster.com/95735A625/).
+  * Tested these bolts from McMaster: [95735A625](https://www.mcmaster.com/95735A625/).
 * Class 10.9 M10x1.25 _flange_ nuts.
   * For the 100 mm "legroom" option, you'll need 7 of them.
   * For other "legroom" options, you'll only need 5.
