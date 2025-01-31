@@ -299,20 +299,21 @@ before the install.
    * If any of the bolts require more torque than amounts achievable by fingers, try to take the bolt
      out, and check/clean the threads. Maybe try a different bolt.
    * The front bolts are easily accessible.
-   * For the 100 mm "legroom" kit, the door side rear bolts can be accessed from the side. You might find
-     it easier to hold your right hand upside down:
-     ![Turning the right hand upside down to access the door side rear bolt](images/upside_down_hand_100.png)
-     * For the other kits, both rear bolts are easier to access through the gap between the front seat
-       and the back seat.
-   * The holes around the bolts will be a bit tight, so figure out what works best for you. Try starting
-     from the rear bolts to have more flexibility. If you can't find the right position, try putting the
-     front bolts first to get the bracket roughly where it should be.
+   * Both rear bolts are accessible through the gap between the front seat and the back seat.
+   * For the 100 mm "legroom" kit, the door side rear bolts can also be accessed from the side.
+     * You might find it easier to hold your right hand upside down:\
+       ![Turning the right hand upside down to access the door side rear bolt](images/upside_down_hand_100.png)
    * For the 100 mm "legroom" kit, the transmission side rear bolt will require some patience, and a bit
      of hand mobility. You should be able to use your index finger and thumb around the post/tab of the
      transmission side bracket next to that bolt to put the bolt through the hole and start tightening it.
+   * The holes around the bolts will be a bit tight, so figure out what works best for you. Try starting
+     from the rear bolts to have more flexibility. If you can't find the right position, try putting the
+     front bolts first to get the bracket roughly where it should be.
    * You might find it useful to wiggle the bottom of the seat horizontally while trying to turn the bolts with your hands.
-1. Once all four floor bolts are started, pull the sockets you used to raise the bracket (if applicable) and hand-tigthen all the bolts.
-1. Using a 14 mm wrench, tighten the floor bolts.
+1. Once all four floor bolts are started, if you used sockets to raise the bracket, pull the sockets out while lifting the seat off
+   the floor, then gently put the floor bracket on the floor.
+1. Hand-tigthen the floor bolts.
+1. Using a 14 mm wrench, finish tightening the floor bolts.
 1. Lower the seat all the way, checking for clearance issues.
    * For kits with "legroom" less than 70 mm, you might need to bend the tab that held the conduit for the electric
      harnesses a bit towards the rear of the car.
