@@ -86,7 +86,7 @@ to as "legroom" throughout the rest of the instructions.
 50-60 | TBD | Should be easy to make, see the difference between the 70 and 80 kits.
 70 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_70.zip) | An earlier revision was verified, added minor improvements.
 80 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_80.zip) | An earlier revision was verified, added minor improvements.
-90 | --- | Will not be offered due to geometric challenges. Use the 80 or 100 kit instead.
+90 | --- | Will not be offered due to challenging geometry. You have to pick either the 80 or the 100 kit instead.
 100 | [Download .ZIP](https://github.com/timurrrr/86buttdrop/raw/main/kits/86buttdrop_100.zip) | An earlier revision was verified, added minor improvements.
 
 ## Ordering the parts from SendCutSend
@@ -130,11 +130,6 @@ Here's how the part should look like in the 3D preview mode:\
 ![Floor bracket, back view](images/floor_bracket_preview_back.png)
 
 ### Seatbelt bolt sleeve
-
-**PSA:** SendCutSend updated their geometry requirements, and is no longer
-accepting this design file.\
-Expect an update to the provided zips in the next few weeks - sorry about that!\
-See [Issue #1](https://github.com/timurrrr/86buttdrop/issues/1) for the details and a suggested workaround if you're in a rush.
 
 1. Use "Metals > Steel > 4130 Chromoly > 4.8 mm".
 1. No services, no finishing.
@@ -404,6 +399,10 @@ I don't know if the side airbag in gen2 seats is compatible with gen1 cars.
 Maybe, I haven't tried. The passenger seat doesn't have the height adjustment mechanism, so it would be a pain
 to install this kit. Furthermore, it would compromise the convenience of loading stuff onto the back seat, such
 as spare tires.
+
+### How can I ask another question?
+
+You can [file a new issue](https://github.com/timurrrr/86buttdrop/issues/new) (requires a GitHub account).
 
 ## Acknowledgments
 
