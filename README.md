@@ -201,9 +201,9 @@ before the install.
 
 ### Removing the seat from the car, and the OEM sliders from the seat
 
-1. Fully lower the window in the driver side door.
 1. Disconnect the battery. We'll be dealing with an airbag harness and don't want surprises.
 1. Press and hold the brake pedal for a second or two to make sure everything is discharged.
+1. Fully lower the window in the driver side door.
 1. Move the steering wheel all the way forward and up, cover it with a towel or a rag.
 1. Move the back of the seat all the way forward, pull out the headrest.
 1. Move the seat all the way back.
@@ -215,6 +215,7 @@ before the install.
 1. Using a 12 mm socket and a breaker bar, slightly loosen the four bolts that attach the seat to the floor.
    * You'll need to slide the seat forward to access the rear bolts.
 1. Once all four bolts are loose, remove the four bolts. You will not reuse them for this kit, but you may want to keep them in case you ever decide to put the factory sliders.
+1. Lower the seat all the way down again.
 1. Put another towel over the door jamb.
 1. Prepare a bench, moving box, or something like that to put the seat.
 1. Carefully pull the seat out of the car, flip it so that the back of the seat back faces down, and set it on the bench / moving box / etc.
